@@ -12,7 +12,7 @@ public class BasicApplicationTests {
  
  @Test
  public void contextLoads() {
- 	    String meessage= "incio el despliegue de la aplicacion";
+ 	    String meessage= "incio el despliegue de la aplicacion1";
  	    Assert.assertNotNull(meessage);
  }
  
